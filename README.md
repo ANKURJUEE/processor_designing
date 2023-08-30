@@ -1,5 +1,5 @@
 # processor_designing
- ![Processor_design](https://github.com/ANKURJUEE/processor_designing/assets/143562100/2125b0a4-a034-4e6c-bf9a-3856ea94920f)
+![Processor_design](https://github.com/ANKURJUEE/processor_designing/assets/143562100/48830a4f-b2aa-44ed-960b-ed56fb7c7f6d)
 
 Let us try to understand the different subcomponents which will be present in our processor.
 
